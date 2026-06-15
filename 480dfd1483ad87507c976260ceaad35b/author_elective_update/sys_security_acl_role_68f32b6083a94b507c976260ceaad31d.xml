@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-15 08:39:20</sys_created_on>
+        <sys_id>68f32b6083a94b507c976260ceaad31d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1908550_campus_0_okk.x_1908550_campus_0.okk_user</sys_name>
+        <sys_package display_value="Campus Marketplace" source="x_1908550_campus_0">480dfd1483ad87507c976260ceaad35b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Campus Marketplace">480dfd1483ad87507c976260ceaad35b</sys_scope>
+        <sys_security_acl display_value="x_1908550_campus_0_okk">acf32b6083a94b507c976260ceaad317</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_68f32b6083a94b507c976260ceaad31d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-15 08:39:20</sys_updated_on>
+        <sys_user_role display_value="x_1908550_campus_0.okk_user" name="x_1908550_campus_0.okk_user">9cf3676083a94b507c976260ceaad3b7</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Campus Marketplace">480dfd1483ad87507c976260ceaad35b</application>
+        <file_path/>
+        <instance_id>0ca1a9971b26bd149377eb9b2d4bcb7c</instance_id>
+        <instance_name>dev220363</instance_name>
+        <name>sys_security_acl_role_68f32b6083a94b507c976260ceaad31d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-15 08:39:20</sys_created_on><sys_id>68f32b6083a94b507c976260ceaad31d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1908550_campus_0_okk.x_1908550_campus_0.okk_user</sys_name><sys_package display_value="Campus Marketplace" source="x_1908550_campus_0">480dfd1483ad87507c976260ceaad35b</sys_package><sys_policy/><sys_scope display_value="Campus Marketplace">480dfd1483ad87507c976260ceaad35b</sys_scope><sys_security_acl display_value="x_1908550_campus_0_okk">acf32b6083a94b507c976260ceaad317</sys_security_acl><sys_update_name>sys_security_acl_role_68f32b6083a94b507c976260ceaad31d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-15 08:39:20</sys_updated_on><sys_user_role display_value="x_1908550_campus_0.okk_user" name="x_1908550_campus_0.okk_user">9cf3676083a94b507c976260ceaad3b7</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-157700371</payload_hash>
+        <record_name>x_1908550_campus_0_okk.x_1908550_campus_0.okk_user</record_name>
+        <reverted_from/>
+        <source>7a0327ec83694b507c976260ceaad359</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-15 08:39:20</sys_created_on>
+        <sys_id>acf32b6083a94b507c976260ceaad322</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19eca6f6e6e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-15 08:39:20</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>6cf32b60b3a94b50513a84e83cf50f21</update_guid>
+        <update_guid_history>6cf32b60b3a94b50513a84e83cf50f21:-157700371</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1908550_campus_0_okk.x_1908550_campus_0.okk_user">ba156fe083a94b507c976260ceaad3ee</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-15 08:44:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>38a2de6bcd8c448ab4219ea3f5ba5d04</sys_id>
+        <sys_metadata>68f32b6083a94b507c976260ceaad31d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1908550_campus_0_okk.x_1908550_campus_0.okk_user</sys_name>
+        <sys_package display_value="Campus Marketplace" source="x_1908550_campus_0">480dfd1483ad87507c976260ceaad35b</sys_package>
+        <sys_parent display_value="">acf32b6083a94b507c976260ceaad317</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Campus Marketplace">480dfd1483ad87507c976260ceaad35b</sys_scope>
+        <sys_scope_delete display_value="">2d1331e215364870b7861fcb48d14e40</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_68f32b6083a94b507c976260ceaad31d</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_68f32b6083a94b507c976260ceaad31d">acf32b6083a94b507c976260ceaad322</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-15 08:44:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
