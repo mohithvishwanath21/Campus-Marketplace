@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-15 05:22:50</sys_created_on>
+        <sys_id>0af63ae083254b507c976260ceaad350</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1908550_campus_0_interest.x_1908550_campus_0.interest_user</sys_name>
+        <sys_package display_value="Campus Marketplace" source="x_1908550_campus_0">480dfd1483ad87507c976260ceaad35b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Campus Marketplace">480dfd1483ad87507c976260ceaad35b</sys_scope>
+        <sys_security_acl display_value="x_1908550_campus_0_interest">0ef63ae083254b507c976260ceaad34a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_0af63ae083254b507c976260ceaad350</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-15 05:22:50</sys_updated_on>
+        <sys_user_role display_value="x_1908550_campus_0.interest_user" name="x_1908550_campus_0.interest_user">d1f6b6e083254b507c976260ceaad3cb</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Campus Marketplace">480dfd1483ad87507c976260ceaad35b</application>
+        <file_path/>
+        <instance_id>0ca1a9971b26bd149377eb9b2d4bcb7c</instance_id>
+        <instance_name>dev220363</instance_name>
+        <name>sys_security_acl_role_0af63ae083254b507c976260ceaad350</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-15 05:22:50</sys_created_on><sys_id>0af63ae083254b507c976260ceaad350</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1908550_campus_0_interest.x_1908550_campus_0.interest_user</sys_name><sys_package display_value="Campus Marketplace" source="x_1908550_campus_0">480dfd1483ad87507c976260ceaad35b</sys_package><sys_policy/><sys_scope display_value="Campus Marketplace">480dfd1483ad87507c976260ceaad35b</sys_scope><sys_security_acl display_value="x_1908550_campus_0_interest">0ef63ae083254b507c976260ceaad34a</sys_security_acl><sys_update_name>sys_security_acl_role_0af63ae083254b507c976260ceaad350</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-15 05:22:50</sys_updated_on><sys_user_role display_value="x_1908550_campus_0.interest_user" name="x_1908550_campus_0.interest_user">d1f6b6e083254b507c976260ceaad3cb</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>135592840</payload_hash>
+        <record_name>x_1908550_campus_0_interest.x_1908550_campus_0.interest_user</record_name>
+        <reverted_from/>
+        <source>480dfd1483ad87507c976260ceaad362</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-15 05:22:50</sys_created_on>
+        <sys_id>8ef63ae083254b507c976260ceaad355</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19ec9bb87b80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-15 05:22:50</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>4ef63ae0f6254b50011f1b9ddb7f0154</update_guid>
+        <update_guid_history>4ef63ae0f6254b50011f1b9ddb7f0154:135592840</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1908550_campus_0_interest.x_1908550_campus_0.interest_user">c2b4db6083294b507c976260ceaad370</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-15 07:32:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>89e31224563d4c1dad0942112ec9ceb1</sys_id>
+        <sys_metadata>0af63ae083254b507c976260ceaad350</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1908550_campus_0_interest.x_1908550_campus_0.interest_user</sys_name>
+        <sys_package display_value="Campus Marketplace" source="x_1908550_campus_0">480dfd1483ad87507c976260ceaad35b</sys_package>
+        <sys_parent display_value="x_1908550_campus_0_interest">0ef63ae083254b507c976260ceaad34a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Campus Marketplace">480dfd1483ad87507c976260ceaad35b</sys_scope>
+        <sys_scope_delete display_value="">2d1331e215364870b7861fcb48d14e40</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_0af63ae083254b507c976260ceaad350</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_0af63ae083254b507c976260ceaad350">8ef63ae083254b507c976260ceaad355</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-15 07:32:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

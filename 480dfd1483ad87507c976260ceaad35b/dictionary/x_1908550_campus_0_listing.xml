@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="35ce6ea083e14b507c976260ceaad386" label="Listing" max_length="40" name="x_1908550_campus_0_listing" type="collection">
+        <element choice="1" default="pending_approval" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approved" sequence="200" value="approved"/>
+                <element inactive_on_update="false" label="Rejected" sequence="300" value="rejected"/>
+                <element inactive_on_update="false" label="Pending Approval" sequence="100" value="pending_approval"/>
+                <element inactive_on_update="false" label="Completed" sequence="500" value="completed"/>
+                <element inactive_on_update="false" label="Reserved" sequence="400" value="reserved"/>
+            </choice>
+        </element>
+        <element choice="1" label="Condition" max_length="40" name="condition" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Good" sequence="200" value="good"/>
+                <element inactive_on_update="false" label="Fair" sequence="300" value="fair"/>
+                <element inactive_on_update="false" label="Poor" sequence="400" value="poor"/>
+                <element inactive_on_update="false" label="New" sequence="100" value="new"/>
+            </choice>
+        </element>
+        <element label="Category" max_length="32" name="category" reference="x_1908550_campus_0_category" type="reference"/>
+        <element label="Price" max_length="20" name="price" type="decimal"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Seller" max_length="32" name="seller" reference="sys_user" type="reference"/>
+        <element display="true" label="Item Name" max_length="200" name="item_name" type="string"/>
+        <element label="Description" max_length="255" name="description" type="string"/>
+        <element label="Available Until" max_length="40" name="available_until" type="glide_date"/>
+        <element label="Location" max_length="40" name="location" type="string"/>
+        <element choice="1" default="requested" label="Approval State" max_length="40" name="approval_state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approved" sequence="200" value="approved"/>
+                <element inactive_on_update="false" label="Rejected" sequence="300" value="rejected"/>
+                <element inactive_on_update="false" label="Requested" sequence="100" value="requested"/>
+            </choice>
+        </element>
+        <element label="Admin Comments" max_length="255" name="admin_comments" type="string"/>
+        <element choice="1" label="Listing Type" max_length="40" name="listing_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Exchange" sequence="200" value="exchange"/>
+                <element inactive_on_update="false" label="Sale" sequence="100" value="sale"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="category"/>
+        </index>
+        <index name="index2">
+            <element name="seller"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="837d319483ad87507c976260ceaad352" label="Category" max_length="40" name="x_1908550_campus_0_category" type="collection">
+        <element default="True" label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Description" max_length="255" name="description" type="string"/>
+        <element display="true" label="Name" max_length="100" name="name" type="string"/>
+    </element>
+</database>

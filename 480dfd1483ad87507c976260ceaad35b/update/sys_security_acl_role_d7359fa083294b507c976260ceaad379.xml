@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-15 07:35:24</sys_created_on>
+        <sys_id>d7359fa083294b507c976260ceaad379</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1908550_campus_0_transaction.x_1908550_campus_0.marketplace_user</sys_name>
+        <sys_package display_value="Campus Marketplace" source="x_1908550_campus_0">480dfd1483ad87507c976260ceaad35b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Campus Marketplace">480dfd1483ad87507c976260ceaad35b</sys_scope>
+        <sys_security_acl display_value="x_1908550_campus_0_transaction">25e73a6483254b507c976260ceaad3a2</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d7359fa083294b507c976260ceaad379</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-15 07:35:24</sys_updated_on>
+        <sys_user_role display_value="x_1908550_campus_0.marketplace_user" name="x_1908550_campus_0.marketplace_user">8c0dfd1483ad87507c976260ceaad3b3</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1908550_campus_0.feedback_user" name="x_1908550_campus_0.feedback_user">d0c8f2e483254b507c976260ceaad363</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-15 05:30:38</sys_created_on>
+        <sys_id>54c8f2e483254b507c976260ceaad366</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d0c8f2e483254b507c976260ceaad363</sys_name>
+        <sys_package display_value="Campus Marketplace" source="x_1908550_campus_0">480dfd1483ad87507c976260ceaad35b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Campus Marketplace">480dfd1483ad87507c976260ceaad35b</sys_scope>
+        <sys_update_name>sys_embedded_help_role_54c8f2e483254b507c976260ceaad366</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-15 05:30:38</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

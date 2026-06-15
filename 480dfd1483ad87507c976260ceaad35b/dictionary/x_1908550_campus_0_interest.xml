@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9e26f66083254b507c976260ceaad39e" label="Interest" max_length="40" name="x_1908550_campus_0_interest" type="collection">
+        <element label="Interested User" max_length="32" name="interested_user" reference="sys_user" type="reference"/>
+        <element label="Response Message" max_length="300" name="response_message" type="string"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Accepted" sequence="200" value="accepted"/>
+                <element inactive_on_update="false" label="Pending" sequence="100" value="pending"/>
+                <element inactive_on_update="false" label="Rejected" sequence="300" value="rejected"/>
+                <element inactive_on_update="false" label="Withdrawn" sequence="400" value="withdrawn"/>
+            </choice>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element display="true" label="Listing" max_length="32" name="listing" reference="x_1908550_campus_0_listing" type="reference"/>
+        <element label="Message" max_length="300" name="message" type="string"/>
+        <index name="index">
+            <element name="interested_user"/>
+        </index>
+        <index name="index2">
+            <element name="listing"/>
+        </index>
+    </element>
+</database>

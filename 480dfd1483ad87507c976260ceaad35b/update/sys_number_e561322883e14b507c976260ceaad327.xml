@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1908550_campus_0_listing">x_1908550_campus_0_listing</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>LIS</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-15 04:58:30</sys_created_on>
+        <sys_id>e561322883e14b507c976260ceaad327</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LIS</sys_name>
+        <sys_package display_value="Campus Marketplace" source="x_1908550_campus_0">480dfd1483ad87507c976260ceaad35b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Campus Marketplace">480dfd1483ad87507c976260ceaad35b</sys_scope>
+        <sys_update_name>sys_number_e561322883e14b507c976260ceaad327</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-15 04:58:30</sys_updated_on>
+    </sys_number>
+</record_update>
